@@ -20,8 +20,12 @@ public class Repository<TEntity>(DeliveryDbContext context): IRepository<TEntity
 
     public async Task Add(TEntity entity)
     {
-        await _dbSet.AddAsync(entity);
-        await _context.SaveChangesAsync();
+        using (var transaction = await _context.Database.BeginTransactionAsync())
+        {
+            await _dbSet.AddAsync(entity);
+            await _context.SaveChangesAsync();
+            await transaction.CommitAsync();
+        }
     }
 
     public async Task Update(TEntity entity)
