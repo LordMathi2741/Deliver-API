@@ -1,0 +1,13 @@
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/bin/Debug/net7.0/Infraestructure.deps.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/bin/Debug/net7.0/Infraestructure.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/bin/Debug/net7.0/Infraestructure.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.csproj.AssemblyReference.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.AssemblyInfoInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.AssemblyInfo.cs
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.csproj.CoreCompileInputs.cache
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.sourcelink.json
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/refint/Infraestructure.dll
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/Infraestructure.pdb
+/Users/lordmathi2741/Documents/Cursos/Aplicaciones Web-Upc/Delivery/Infraestructure/obj/Debug/net7.0/ref/Infraestructure.dll
